@@ -35,3 +35,4 @@ Cont: https://github.com/danielpdev
 La 5–10 ore pe săptămână: rulează, citește, modifică personal o parte și repetă prezentarea în engleză. Folosește un proiect principal și maximum două complementare per aplicație. Cele 20 de repo-uri nu înlocuiesc capacitatea de a explica deciziile.
 
 Nu au fost trimise aplicații sau mesaje recrutorilor. B2B/contractul, țara din care poți lucra și cerințele lingvistice trebuie verificate pentru fiecare rol.
+
