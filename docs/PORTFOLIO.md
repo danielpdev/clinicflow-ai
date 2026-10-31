@@ -2,12 +2,14 @@
 
 Cont: https://github.com/danielpdev
 
+Toate cele 20 de proiecte sunt publicate ca repo-uri separate. Fiecare README include un GIF demonstrativ.
+
 | Proiect | Roluri relevante | GitHub | Stare publicare |
 |---|---|---|---|
-| ClinicFlow AI | Applied AI / Python Backend / Healthtech | [Deschide](https://github.com/danielpdev/clinicflow-ai) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| Support RAG Desk | Applied AI Engineer / RAG Engineer | [Deschide](https://github.com/danielpdev/support-rag-desk) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| DocFlow Review | Document AI / Python Automation | [Deschide](https://github.com/danielpdev/docflow-review) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| AgentOps Workbench | AI Platform / Agent Evaluation | [Deschide](https://github.com/danielpdev/agentops-workbench) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| ClinicFlow AI | Applied AI / Python Backend / Healthtech | [Deschide](https://github.com/danielpdev/clinicflow-ai) | Public |
+| Support RAG Desk | Applied AI Engineer / RAG Engineer | [Deschide](https://github.com/danielpdev/support-rag-desk) | Public |
+| DocFlow Review | Document AI / Python Automation | [Deschide](https://github.com/danielpdev/docflow-review) | Public |
+| AgentOps Workbench | AI Platform / Agent Evaluation | [Deschide](https://github.com/danielpdev/agentops-workbench) | Public |
 | MCP Business Tools | MCP / Agent Integration / Python | [Deschide](https://github.com/danielpdev/mcp-business-tools) | Public |
 | Durable Agent Runner | Agent Infrastructure / Backend | [Deschide](https://github.com/danielpdev/durable-agent-runner) | Public |
 | LLM Regression Lab | AI Evaluation / Applied AI | [Deschide](https://github.com/danielpdev/llm-regression-lab) | Public |
@@ -18,12 +20,12 @@ Cont: https://github.com/danielpdev
 | n8n CRM Sync | n8n / Integration Engineer | [Deschide](https://github.com/danielpdev/n8n-crm-sync) | Public |
 | n8n Invoice Review | n8n / Finance Operations Automation | [Deschide](https://github.com/danielpdev/n8n-invoice-review) | Public |
 | n8n Support Escalation | n8n / Support Automation | [Deschide](https://github.com/danielpdev/n8n-support-escalation) | Public |
-| Read-only SQL Assistant | Applied AI / Data Backend | [Deschide](https://github.com/danielpdev/readonly-sql-assistant) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| Document Change Monitor | RAG Operations / Backend | [Deschide](https://github.com/danielpdev/document-change-monitor) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| Annotation Review Studio | AI Data Tools / Full-stack Python | [Deschide](https://github.com/danielpdev/annotation-review-studio) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| PII Redaction Bench | AI Evaluation / Data Processing | [Deschide](https://github.com/danielpdev/pii-redaction-bench) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| Voice Appointment Intake | Voice AI / Applied Python | [Deschide](https://github.com/danielpdev/voice-appointment-intake) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
-| Resumable Data Ingestion | Data Engineer / Python Backend | [Deschide](https://github.com/danielpdev/resumable-data-ingestion) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Read-only SQL Assistant | Applied AI / Data Backend | [Deschide](https://github.com/danielpdev/readonly-sql-assistant) | Public |
+| Document Change Monitor | RAG Operations / Backend | [Deschide](https://github.com/danielpdev/document-change-monitor) | Public |
+| Annotation Review Studio | AI Data Tools / Full-stack Python | [Deschide](https://github.com/danielpdev/annotation-review-studio) | Public |
+| PII Redaction Bench | AI Evaluation / Data Processing | [Deschide](https://github.com/danielpdev/pii-redaction-bench) | Public |
+| Voice Appointment Intake | Voice AI / Applied Python | [Deschide](https://github.com/danielpdev/voice-appointment-intake) | Public |
+| Resumable Data Ingestion | Data Engineer / Python Backend | [Deschide](https://github.com/danielpdev/resumable-data-ingestion) | Public |
 
 ## Ordinea de studiu și aplicare
 
