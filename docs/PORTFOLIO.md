@@ -2,28 +2,28 @@
 
 Cont: https://github.com/danielpdev
 
-| Proiect | Roluri relevante | GitHub |
-|---|---|---|
-| ClinicFlow AI | Applied AI / Python Backend / Healthtech | [Deschide](https://github.com/danielpdev/clinicflow-ai) |
-| Support RAG Desk | Applied AI Engineer / RAG Engineer | [Deschide](https://github.com/danielpdev/support-rag-desk) |
-| DocFlow Review | Document AI / Python Automation | [Deschide](https://github.com/danielpdev/docflow-review) |
-| AgentOps Workbench | AI Platform / Agent Evaluation | [Deschide](https://github.com/danielpdev/agentops-workbench) |
-| MCP Business Tools | MCP / Agent Integration / Python | [Deschide](https://github.com/danielpdev/mcp-business-tools) |
-| Durable Agent Runner | Agent Infrastructure / Backend | [Deschide](https://github.com/danielpdev/durable-agent-runner) |
-| LLM Regression Lab | AI Evaluation / Applied AI | [Deschide](https://github.com/danielpdev/llm-regression-lab) |
-| RAG Retrieval Lab | RAG / Search / Evaluation | [Deschide](https://github.com/danielpdev/rag-retrieval-lab) |
-| Local LLM Request Router | AI Infrastructure / Python Async | [Deschide](https://github.com/danielpdev/local-llm-request-router) |
-| Human Approval Service | Agent Safety / Backend | [Deschide](https://github.com/danielpdev/human-approval-service) |
-| Webhook Delivery Engine | Backend Reliability / Integrations | [Deschide](https://github.com/danielpdev/webhook-delivery-engine) |
-| n8n CRM Sync | n8n / Integration Engineer | [Deschide](https://github.com/danielpdev/n8n-crm-sync) |
-| n8n Invoice Review | n8n / Finance Operations Automation | [Deschide](https://github.com/danielpdev/n8n-invoice-review) |
-| n8n Support Escalation | n8n / Support Automation | [Deschide](https://github.com/danielpdev/n8n-support-escalation) |
-| Read-only SQL Assistant | Applied AI / Data Backend | [Deschide](https://github.com/danielpdev/readonly-sql-assistant) |
-| Document Change Monitor | RAG Operations / Backend | [Deschide](https://github.com/danielpdev/document-change-monitor) |
-| Annotation Review Studio | AI Data Tools / Full-stack Python | [Deschide](https://github.com/danielpdev/annotation-review-studio) |
-| PII Redaction Bench | AI Evaluation / Data Processing | [Deschide](https://github.com/danielpdev/pii-redaction-bench) |
-| Voice Appointment Intake | Voice AI / Applied Python | [Deschide](https://github.com/danielpdev/voice-appointment-intake) |
-| Resumable Data Ingestion | Data Engineer / Python Backend | [Deschide](https://github.com/danielpdev/resumable-data-ingestion) |
+| Proiect | Roluri relevante | GitHub | Stare publicare |
+|---|---|---|---|
+| ClinicFlow AI | Applied AI / Python Backend / Healthtech | [Deschide](https://github.com/danielpdev/clinicflow-ai) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Support RAG Desk | Applied AI Engineer / RAG Engineer | [Deschide](https://github.com/danielpdev/support-rag-desk) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| DocFlow Review | Document AI / Python Automation | [Deschide](https://github.com/danielpdev/docflow-review) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| AgentOps Workbench | AI Platform / Agent Evaluation | [Deschide](https://github.com/danielpdev/agentops-workbench) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| MCP Business Tools | MCP / Agent Integration / Python | [Deschide](https://github.com/danielpdev/mcp-business-tools) | Public |
+| Durable Agent Runner | Agent Infrastructure / Backend | [Deschide](https://github.com/danielpdev/durable-agent-runner) | Public |
+| LLM Regression Lab | AI Evaluation / Applied AI | [Deschide](https://github.com/danielpdev/llm-regression-lab) | Public |
+| RAG Retrieval Lab | RAG / Search / Evaluation | [Deschide](https://github.com/danielpdev/rag-retrieval-lab) | Public |
+| Local LLM Request Router | AI Infrastructure / Python Async | [Deschide](https://github.com/danielpdev/local-llm-request-router) | Public |
+| Human Approval Service | Agent Safety / Backend | [Deschide](https://github.com/danielpdev/human-approval-service) | Public |
+| Webhook Delivery Engine | Backend Reliability / Integrations | [Deschide](https://github.com/danielpdev/webhook-delivery-engine) | Public |
+| n8n CRM Sync | n8n / Integration Engineer | [Deschide](https://github.com/danielpdev/n8n-crm-sync) | Public |
+| n8n Invoice Review | n8n / Finance Operations Automation | [Deschide](https://github.com/danielpdev/n8n-invoice-review) | Public |
+| n8n Support Escalation | n8n / Support Automation | [Deschide](https://github.com/danielpdev/n8n-support-escalation) | Public |
+| Read-only SQL Assistant | Applied AI / Data Backend | [Deschide](https://github.com/danielpdev/readonly-sql-assistant) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Document Change Monitor | RAG Operations / Backend | [Deschide](https://github.com/danielpdev/document-change-monitor) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Annotation Review Studio | AI Data Tools / Full-stack Python | [Deschide](https://github.com/danielpdev/annotation-review-studio) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| PII Redaction Bench | AI Evaluation / Data Processing | [Deschide](https://github.com/danielpdev/pii-redaction-bench) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Voice Appointment Intake | Voice AI / Applied Python | [Deschide](https://github.com/danielpdev/voice-appointment-intake) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
+| Resumable Data Ingestion | Data Engineer / Python Backend | [Deschide](https://github.com/danielpdev/resumable-data-ingestion) | Sursă finalizată; repo în așteptare din cauza limitei GitHub |
 
 ## Ordinea de studiu și aplicare
 
