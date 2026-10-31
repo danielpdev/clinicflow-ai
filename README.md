@@ -6,7 +6,12 @@ Appointment booking with transactional slots and confirmed agent actions.
 
 **Role focus:** Applied AI / Python Backend / Healthtech. **Status:** working local portfolio implementation, with synthetic data.
 
-![Application screenshot](docs/screenshot.png)
+
+## Demo
+
+![How ClinicFlow AI works](docs/demo.gif)
+
+Excerpt from the recorded local UI demonstration, played faster. [Full recording](docs/demo.webm). [Screenshot](docs/screenshot.png). Rebuild with `./scripts/render_gif.sh` (FFmpeg required).
 
 ## The engineering decision
 
