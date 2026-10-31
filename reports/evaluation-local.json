@@ -1,0 +1,18 @@
+{
+  "mode": "local",
+  "python": "3.12.13",
+  "recorded_at": "2026-10-31T13:42:10.179750+00:00",
+  "elapsed_seconds": 7.3664,
+  "result": {
+    "passed": true,
+    "concurrent_attempts": 16,
+    "confirmed_bookings": 1,
+    "local_model_demo": {
+      "action": "clarify",
+      "slot_id": null,
+      "message": "I need to find the earliest available slot for June 17, 2030. The available slots are: 9:00 AM, 10:00 AM, 11:00 AM, and 2:00 PM. The earliest slot is 9:00 AM on June 17, 2030 with Dr. Demo Rivera.",
+      "mode": "local-model",
+      "model": "qwen3:4b"
+    }
+  }
+}
